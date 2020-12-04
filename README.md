@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Anderson 👋
 
+I'm a Mechanical Engineer and passionate about Data and Simulation
 <!--
 **ayoshizato/ayoshizato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
