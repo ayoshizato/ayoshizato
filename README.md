@@ -1,6 +1,7 @@
 ### Hi there, I'm Anderson 👋
 
-I'm a Mechanical Engineer and passionate about Data and Simulation
+#### I'm a Mechanical Engineer, MASc and AI/ML enthusiast. I'm passionate about Data and Simulation and the way such paradigms can be used to transform our world into a better place. I have a special interest in Multi-Agent Systems and the way it can support decision makers in industrial and supply-chain applications. Also, I enjoy following the advances in Multi-Agent Systems to tackle socila and environmental issues. 
+
 <!--
 **ayoshizato/ayoshizato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
